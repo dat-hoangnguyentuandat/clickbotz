@@ -1,0 +1,11 @@
+tools/
+ClickBotz.exe
+ClickBotz-v1-backup.exe
+ClickBotz-*.exe
+clickbotz.ini
+macro.ini
+macro.ini.tmp
+analysis/extracted/
+tests/results/
+tests/*.log
+tests/*.png
